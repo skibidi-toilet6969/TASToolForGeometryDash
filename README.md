@@ -6,3 +6,7 @@ to compile payload.dll
 
 to compile injector.exe
 ```g++ -O3 injector.cpp -o injector.exe```
+
+
+
+todo: add playback feature, which is in the same folder as injector.exe and payload.dll
